@@ -1,0 +1,8 @@
+# kernel 
+sys-kernel/linux-firmware @BINARY-REDISTRIBUTABLE
+
+# nvidia 
+x11-drivers/nvidia-drivers NVIDIA-2025
+
+# media-fonts
+media-fonts/jetbrains-mono-nerd NERDFONTS
